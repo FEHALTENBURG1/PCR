@@ -1,5 +1,4 @@
-
-# 🫀 PCR Assist — Adulto
+# 🫀 PCR Assist — Adulto (UnB/HUB + EBSERH)
 
 Painel web de apoio à condução da **reanimação cardiopulmonar (RCP) em adultos** durante uma parada cardiorrespiratória (PCR). Versão em **Java puro** (sem dependências externas, apenas o JDK) + **HTML/CSS/JS**, com a mesma lógica e identidade visual da versão em R Shiny.
 
