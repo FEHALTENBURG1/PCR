@@ -13,6 +13,11 @@ license: MIT
 repository-code: "https://github.com/FEHALTENBURG1/PCR"
 version: "1.0.0"
 date-released: "2026-07-20"
+doi: "10.5281/zenodo.21459254"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21459254"
+    description: "DOI da versão v1.0.0"
 keywords:
   - parada cardiorrespiratória
   - reanimação cardiopulmonar
@@ -20,3 +25,4 @@ keywords:
   - ACLS
   - enfermagem
   - software de saúde
+
