@@ -74,7 +74,7 @@ pcr-assist/
 ```
 
 ## Licença
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21459254.svg)](https://doi.org/10.5281/zenodo.21459254)
 MIT — use, modifique e compartilhe livremente.
 
 ## Autoria
