@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o conforme os metadados abaixo."
+title: "PCR Assist — Adulto"
+abstract: >-
+  Painel web de apoio à condução da reanimação cardiopulmonar (RCP) em adultos
+  durante uma parada cardiorrespiratória (PCR), com backend em Java puro (JDK) e
+  frontend em HTML/CSS/JS. Ferramenta de apoio educacional e de treinamento.
+type: software
+authors:
+  - family-names: Haltenburg
+    given-names: Fernanda
+license: MIT
+repository-code: "https://github.com/FEHALTENBURG1/PCR"
+version: "1.0.0"
+date-released: "2026-07-20"
+keywords:
+  - parada cardiorrespiratória
+  - reanimação cardiopulmonar
+  - RCP
+  - ACLS
+  - enfermagem
+  - software de saúde
