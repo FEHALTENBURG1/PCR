@@ -1,4 +1,4 @@
-# PCR Assist — Adulto (UnB/SDS)
+# PCR Assist — Adulto 
 
 Painel web de apoio à condução da **reanimação cardiopulmonar (RCP) em adultos** durante uma parada cardiorrespiratória (PCR). Backend em **Java puro** (apenas o JDK, sem dependências externas) e frontend em **HTML/CSS/JS**, com identidade visual institucional, ícones em outline e interface sóbria voltada ao uso clínico.
 
